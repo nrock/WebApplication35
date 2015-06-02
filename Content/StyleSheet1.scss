@@ -1,0 +1,12 @@
+﻿body {
+}
+
+
+.a{
+    background: red;
+}
+
+.b {
+    @extend a;
+    border: 5px;
+}
